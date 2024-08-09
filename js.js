@@ -3,5 +3,5 @@ const button = document.querySelector('button');
 
 /* Тут на кнопку навешиваем обрабочик, который ждёт клика и тогда запустит логику */
 button.addEventListener('click', function() {
-	alert('ЕЕЕЕЕЕЕЕ броуккид оценил')
+	alert('а шо у мидлов легче, чем у джунов???')
 })
